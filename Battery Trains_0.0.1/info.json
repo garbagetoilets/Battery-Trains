@@ -1,0 +1,8 @@
+{
+  "name": "Electric Trains",
+  "version": "0.0.1",
+  "title": "Electric Trains",
+  "author": "Zahne",
+  "description": "Adds electric trains of several types: battery powered trains, with or without solar and trains that run on electric rails",
+   "dependencies": [""],
+}
